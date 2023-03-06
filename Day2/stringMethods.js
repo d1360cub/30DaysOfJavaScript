@@ -30,7 +30,7 @@ let country2 = "Finland";
 console.log(country2.toLowerCase()); // finland
 
 console.log(string.substr(4, 6)); // Script (deprecated)
-console.log(country.substr(3, 4)); // substr methos is deprecated, not completely eliminated yet
+console.log(country.substr(3, 4)); // substr method is deprecated, not completely eliminated yet
 
 console.log(string.substring(0, 4)); // Java
 console.log(string.substring(4, 10)); // Script
